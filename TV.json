@@ -1402,14 +1402,14 @@
             },
             {
                 "name": "Telefe",
-                "url": "https://edge-mix01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU1NDYzOTMzIiwic2lwIjoiMzguMTY1LjIzMy4zMCIsInBhdGgiOiIvbGl2ZS9jNmVkcy9DYW5hbDcvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImExYjZhMWRlZGUyNDI2YjciLCJzZXNzaW9uX2lkIjoiODI0OTc5OTAtMTc1NTI5MTEzMy03MTQiLCJjbGllbnRfaWQiOiI0MzU0Mzk2IiwiZGV2aWNlX2lkIjoiODI0OTc5OTAiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjIwMSIsInNvdXJjZXMiOls3Nyw4NSwxNDQsODYsODhdfQ==.JG2YAe398n04guaAtyJlw8axcf-jYYkoIRZZl6guilkwDlnF2T6za_LylqQwsKqUjMB1JUbSbIcr0CwF9-e56Q==//live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
+                "url": "https://edge-mix01-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxOTE4NzIyIiwic2lwIjoiMTg2LjE3LjEyLjIyMCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9BbWVyaWNhVFYvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImE3N2NjNDg1MTY4NzNkOTciLCJzZXNzaW9uX2lkIjoiMzIyMGQ2N2JmMzBlOWJiYzEyZGZjMjQ5Y2U3NDA5NzUtMTc4MTc0NTkyMi02NzYiLCJjbGllbnRfaWQiOiJmbG93Ojk5OTkwMDAwMjM1NzU1MS0tZmxvdzo5OTk5MDAwMDIzNTc1NTE6UCIsImRldmljZV9pZCI6IjMyMjBkNjdiZjMwZTliYmMxMmRmYzI0OWNlNzQwOTc1IiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiOTMiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.bhp8aUb29Z_24LwgcGtwckOCrs5zZ4Uh7_YtwY_XcfkaXERtBRPI_LuRusCGknYb1WEjWsitBSysvW7gJNRLGg==//live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323",
                 "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png",
                 "headers": {
-                    "Origin": "https://web.app.flow.com.py",
-                    "Referer": "https://web.app.flow.com.py/",
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+                    "Origin": "https://portal.app.flow.com.py",
+                    "Referer": "https://portal.app.flow.com.py/",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
                 }
             },
             {
